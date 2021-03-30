@@ -1,1 +1,1 @@
-# coursera-capstone-project-joel
+# Loan Status - Machine Learning
